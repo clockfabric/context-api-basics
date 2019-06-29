@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/context-api-basics/static/css/main.2c5480b6.chunk.css",
+    "main.js": "/context-api-basics/static/js/main.66186c57.chunk.js",
+    "main.js.map": "/context-api-basics/static/js/main.66186c57.chunk.js.map",
+    "runtime~main.js": "/context-api-basics/static/js/runtime~main.02162a1b.js",
+    "runtime~main.js.map": "/context-api-basics/static/js/runtime~main.02162a1b.js.map",
+    "static/js/2.1b3a0643.chunk.js": "/context-api-basics/static/js/2.1b3a0643.chunk.js",
+    "static/js/2.1b3a0643.chunk.js.map": "/context-api-basics/static/js/2.1b3a0643.chunk.js.map",
+    "index.html": "/context-api-basics/index.html",
+    "precache-manifest.db90e329fe0500e190895bbc18b50783.js": "/context-api-basics/precache-manifest.db90e329fe0500e190895bbc18b50783.js",
+    "service-worker.js": "/context-api-basics/service-worker.js",
+    "static/css/main.2c5480b6.chunk.css.map": "/context-api-basics/static/css/main.2c5480b6.chunk.css.map"
+  }
+}
